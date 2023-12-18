@@ -1,0 +1,13 @@
+ol, ul { 
+    list-style-type: none;
+}
+
+#perens{
+    font-style: italic;
+}
+
+#instructions{
+    display: flex;
+    width: 450px;
+    height: 80px;
+}
